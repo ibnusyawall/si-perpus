@@ -44,12 +44,12 @@ Password: Admin12345
 ## Screenshot
 
 <p align="center">
-  <img alt="halaman-login" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/blob/main/screenshots/halaman-login.png"/>
-  <img alt="halaman-dashboard" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/blob/main/screenshots/halaman-dashboard.png"/>
-  <img alt="halaman-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/blob/main/screenshots/halaman-buku.png"/>
-  <img alt="halaman-jenis-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/blob/main/screenshots/halaman-jenis-buku.png"/>
-  <img alt="halaman-kelas" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/blob/main/screenshots/halaman-kelas.png"/>
-  <img alt="halaman-peminjam" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/blob/main/screenshots/halaman-peminjam.png"/>
+  <img alt="halaman-login" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-login.png"/>
+  <img alt="halaman-dashboard" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-dashboard.png"/>
+  <img alt="halaman-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-buku.png"/>
+  <img alt="halaman-jenis-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-jenis-buku.png"/>
+  <img alt="halaman-kelas" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-kelas.png"/>
+  <img alt="halaman-peminjam" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-peminjam.png"/>
 </p>
 
 ## Contact Me
