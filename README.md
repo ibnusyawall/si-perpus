@@ -1,6 +1,6 @@
 <div align="center">
  
-# TikTok Video Downloader
+# SI PERPUS
 ![Author](https://img.shields.io/badge/Author-ibnusyawall-blue.svg?style=for-the-badge&logo=github)
 <p>Aplikasi Sistem Informasi Perpustakaan Sekolah dibuat menggunakan Laravel dan VueJS</p>
 </div>
