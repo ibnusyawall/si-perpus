@@ -38,17 +38,17 @@ Lakukan perintah dibawah ini jika sudah setting database di .env
 pergi ke halaman login dengan akses url: http://localhost:8000/login
 
 ## Demo Account
-Username: admin
+Username: admin<br/>
 Password: Admin12345
 
 ## Screenshot
 
 <p align="center">
-  <img alt="halaman-login" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-login.png"/>
-  <img alt="halaman-dashboard" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-dashboard.png"/>
-  <img alt="halaman-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-buku.png"/>
-  <img alt="halaman-jenis-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-jenis-buku.png"/>
-  <img alt="halaman-kelas" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-kelas.png"/>
+  <img alt="halaman-login" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-login.png"/><br/><br/>
+  <img alt="halaman-dashboard" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-dashboard.png"/><br/><br/>
+  <img alt="halaman-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-buku.png"/><br/><br/>
+  <img alt="halaman-jenis-buku" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-jenis-buku.png"/><br/><br/>
+  <img alt="halaman-kelas" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-kelas.png"/><br/><br/>
   <img alt="halaman-peminjam" src="https://raw.githubusercontent.com/ibnusyawall/si-perpus/main/screenshots/halaman-peminjam.png"/>
 </p>
 
