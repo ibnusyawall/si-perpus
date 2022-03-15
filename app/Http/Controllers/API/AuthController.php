@@ -19,7 +19,7 @@ class AuthController extends Controller
 
             if (Auth::check()) {
                 $message = [
-                    'token' => $user->createToken(env('TOKEN_CLIENT'))->accessToken,
+                    'token' => $user->createToken(env('TOKEN_CLIENT') or 'perpus')->accessToken,
                     'user' => $user,
                 ];
 
