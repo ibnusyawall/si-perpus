@@ -23,9 +23,7 @@ Use the package manager (composer) for installing
 Lakukan perintah dibawah ini jika sudah setting database di .env
 
 ```bash
-> php artisan migrate:fresh --seed
-> php artisan passport:install
-> php artisan passport:client --personal --name=perpus
+> php artisan install
 ```
 
 ## Run
